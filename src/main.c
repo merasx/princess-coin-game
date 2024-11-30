@@ -3,7 +3,7 @@
 Program Description: A game (Royal Riches) where a princess catches falling coins with features that include;
 					 a timer, music/sound, LEDs, buttons, serial port connection (remote control), lives(with animation), score, ability to restart, game over page, welcome page. 
 
-Authors: Amanda Ajredini, Mera Saoud, Eman Abdelatti
+Authors: Mera Saoud, Amanda Ajredini, Eman Abdelatti
 
 Date: 20/02/2024
 
@@ -50,7 +50,7 @@ void redOff(void);// Function for turning off red light 1
 void red2On(void);// Function for turning on red light 2
 void red2Off(void);// Function for turning off red light 2
 void red3On(void);// Function for turning on red light 3
-void red3Off(void);// Function for turning off red light 3
+void red3Off(void);// Function for turning off red light 3 
 
 // Global Variables
 volatile uint32_t milliseconds;
